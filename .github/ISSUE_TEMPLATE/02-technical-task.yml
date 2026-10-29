@@ -1,0 +1,38 @@
+name: "Development – zadanie techniczne"
+description: "Mechanika, architektura, integracja, narzędzia lub inne zadanie programistyczne"
+title: "[TECH] "
+labels: ["engineering"]
+body:
+  - type: textarea
+    id: purpose
+    attributes:
+      label: "Cel i kontekst"
+      description: "Dlaczego to robimy, z jakim systemem jest powiązane?"
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: "Kryteria ukończenia (Definition of Done)"
+      value: |
+        - [ ] Działa zgodnie z zaakceptowanym zakresem
+        - [ ] Jest sprawdzone przez odpowiednią osobę / testy
+        - [ ] Zmiany zostały połączone przez PR (jeśli dotyczy)
+        - [ ] Dokumentacja jest zaktualizowana (jeśli dotyczy)
+    validations:
+      required: true
+  - type: textarea
+    id: dependencies
+    attributes:
+      label: "Zależności i materiały"
+      placeholder: "GDD, assety, API, zależne Issues..."
+    validations:
+      required: false
+  - type: checkboxes
+    id: io
+    attributes:
+      label: "Związek z IO"
+      description: "Zaznaczenie NIE dodaje automatycznie label `io`: dodaj ją do Issue ręcznie, jeśli praca trójki ma być rozliczana na IO."
+      options:
+        - label: "To zadanie w całości lub części obejmuje rozliczaną pracę osób z IO"
+          required: false

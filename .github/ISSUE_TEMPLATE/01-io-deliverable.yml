@@ -1,0 +1,45 @@
+name: "IO – oddanie na PZE"
+description: "Dokumentacja, prezentacja, eksport danych lub raport zaliczeniowy"
+title: "[IO] "
+labels: ["io", "io-deliverable", "documentation"]
+body:
+  - type: input
+    id: area
+    attributes:
+      label: "Obszar i kryterium PZE"
+      placeholder: "Obszar 1 – Dobór technologii i narzędzi (10 pkt)"
+    validations:
+      required: true
+  - type: input
+    id: deadline
+    attributes:
+      label: "Termin oddania"
+      placeholder: "2026-11-06 23:00"
+    validations:
+      required: true
+  - type: textarea
+    id: requirements
+    attributes:
+      label: "Wymagania z PZE"
+      description: "Przepisz właściwe wymagania bez zastępowania ich wymaganiami Cyberiady"
+    validations:
+      required: true
+  - type: textarea
+    id: subtasks
+    attributes:
+      label: "Kroki i kryteria ukończenia"
+      value: |
+        - [ ] Zaplanowano zakres prac i odpowiedzialnych
+        - [ ] Zgromadzono wyniki i materiały
+        - [ ] Zweryfikowano dostęp prowadzącego
+        - [ ] Eksport/plik umieszczono w repo
+        - [ ] Oddano materiał na PZE
+    validations:
+      required: true
+  - type: textarea
+    id: links
+    attributes:
+      label: "Linki do artefaktów, PR i zasobów"
+      placeholder: "Link do docs/IO, eksportu, ewentualnie prezentacji"
+    validations:
+      required: false

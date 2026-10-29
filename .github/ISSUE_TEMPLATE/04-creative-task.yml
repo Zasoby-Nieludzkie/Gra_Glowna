@@ -1,0 +1,32 @@
+name: "Game design / grafika / audio"
+description: "Zadanie kreatywne, zawartość gry albo integracja assetów"
+title: "[CONTENT] "
+labels: ["game-design"]
+body:
+  - type: textarea
+    id: objective
+    attributes:
+      label: "Cel zadania"
+      description: "Co ma powstać i gdzie będzie użyte?"
+    validations:
+      required: true
+  - type: textarea
+    id: requirements
+    attributes:
+      label: "Specyfikacja i zależności"
+      placeholder: "Opis, format pliku, wymiary, konwencja nazewnicza, odbiorca..."
+    validations:
+      required: true
+  - type: textarea
+    id: legal
+    attributes:
+      label: "Autorstwo i licencja (jeśli dotyczy)"
+      description: "Assety zewnętrzne lub użycie AI wymagają odrębnej dokumentacji według regulaminu konkursu"
+    validations:
+      required: false
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: "Kryteria odbioru"
+    validations:
+      required: true

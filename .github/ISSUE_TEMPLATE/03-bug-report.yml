@@ -1,0 +1,42 @@
+name: "QA – zgłoszenie błędu"
+description: "Reprodukowalny błąd w grze, edytorze lub buildzie"
+title: "[BUG] "
+labels: ["bug", "qa"]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: "Opis problemu i oczekiwane zachowanie"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Kroki do odtworzenia"
+      placeholder: "1. Uruchom build..."
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: "Wersja / commit / platforma"
+      placeholder: "commit, Unity editor lub build, Windows / Linux"
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: "Logi, nagranie, zrzuty i inne materiały"
+    validations:
+      required: false
+  - type: dropdown
+    id: severity
+    attributes:
+      label: "Wpływ"
+      options:
+        - "Blokujący"
+        - "Poważny"
+        - "Umiarkowany"
+        - "Drobny"
+    validations:
+      required: true
