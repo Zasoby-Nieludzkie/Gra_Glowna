@@ -61,20 +61,18 @@
 
 ## Uwarunkowania organizacyjne
 
-| Osoba | Rola |
+| Obszar | Zakres |
 |---|---|
-| Wojtek | Game design |
-| Marcelina | Grafika 2D |
-| Sebastian | Programowanie |
-| Miłosz | Programowanie |
-| Zuzia | Narracja, projektowanie questów |
-| Maciek | QA |
-| Alicja | Project management |
-| Jagoda | Sound design i kompozycja |
-| Alicja | Programowanie |
+| Game design | Projektowanie rozgrywki i zagadek |
+| Grafika 2D | Ilustracje i oprawa wizualna |
+| Programowanie | AJ, SB, MP |
+| Narracja | Fabuła, dialogi i questy |
+| QA | Testy i kontrola jakości |
+| Project management | Koordynacja pracy zespołu |
+| Audio | Sound design i kompozycja |
 
 - **Organizacja pracy:** krótkie sprinty, zadania z przypisanymi wykonawcami, regularne spotkania na Discordzie; GitHub, Trello, Miro i Google Drive.
-- W ramach IO **Alicja Janeczko, Miłosz Pakura i Sebastian Biksa** korzystają już z repozytorium GitHub oraz Issues i Projects. Środowisko współpracy przeszło wstępne testy.
+- W ramach IO **AJ, MP i SB** korzystają już z repozytorium GitHub oraz Issues i Projects. Środowisko współpracy przeszło wstępne testy.
 
 ## Dotychczasowe doświadczenia i wykonalność
 
