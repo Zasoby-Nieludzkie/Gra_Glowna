@@ -6,18 +6,16 @@
 
 ## Temat i problem
 
-Z filmu rekrutacyjnego:
 - Punktem wyjścia jest młody człowiek wyczerpany wyścigiem po awans. Po samobójstwie trafia do zaświatów.
 - Czyściec został „zmodernizowany” i działa jak rozbudowana biurokracja.
 - Historia dotyczy młodych ludzi, rynku pracy, tempa zmian technologicznych i presji zawodowej.
 - Ton łączy czarny humor, groteskę i poważną opowieść.
 - Gra opowiada tę historię także poprzez zagadki środowiskowe, a nie wyłącznie w przerywnikach fabularnych.
 
-**Kontekst społeczny:** presja sukcesu, poczucie sprawczości w pracy, biurokratyzacja życia, niepewność zawodowa młodych ludzi. To tematy przedstawiane przez fabułę; gra nie jest narzędziem terapeutycznym.
+**Kontekst społeczny:** presja sukcesu, poczucie sprawczości w pracy, biurokratyzacja życia i niepewność zawodowa młodych ludzi.
 
 ## Koncepcja rozgrywki
 
-Z filmu i dotychczasowych materiałów projektowych:
 - Trzy rzeczywistości: **Czyściec, Niebo i Piekło**. To różne stany tej samej przestrzeni.
 - Zmiana rzeczywistości wpływa na wygląd i działanie otoczenia. Gracz korzysta z różnic przy rozwiązywaniu problemów.
 - Przedmioty umieszczone w walizce zachowują stan z momentu podniesienia. Po wyjęciu mogą znowu reagować na aktualną rzeczywistość.
@@ -25,7 +23,7 @@ Z filmu i dotychczasowych materiałów projektowych:
 - Odpowiedzi gracza w rozmowach mogą być wpisywane z klawiatury. Klasyfikator przyporządkowuje tekst do przewidzianych intencji, a gra wyświetla napisaną wcześniej reakcję.
 - Dialogi mają autorski przebieg i określone reakcje. Rozpoznawanie intencji nie oznacza automatycznego generowania całej fabuły.
 
-**Przewidywane doświadczenie:** eksploracja miejsca, rozpoznanie zależności między rzeczywistościami, dobór przedmiotów i użycie ich w odpowiednim kontekście, prowadzenie rozmów i poznawanie historii.
+**Rozgrywka:** eksploracja, rozpoznawanie zależności między rzeczywistościami, dobór i wykorzystanie przedmiotów, rozmowy oraz poznawanie historii.
 
 ## Rozwiązanie problemu i wyróżniki
 
@@ -36,11 +34,7 @@ Z filmu i dotychczasowych materiałów projektowych:
 | Wpisywane odpowiedzi | Większa swoboda wyrażenia intencji przy zachowaniu autorskiej narracji |
 | Satyryczne zaświaty | Powiązanie tematu presji zawodowej i biurokracji z zasadami świata gry |
 
-To opis założeń projektu, nie lista funkcji już ukończonych.
-
 ## Porównanie z innymi grami
-
-Te trzy gry stanowią **punkty odniesienia do analizy**, nie bezpośrednie odpowiedniki całego pomysłu.
 
 | Gra | Wspólny obszar | Różnica względem naszego pomysłu |
 |---|---|---|
@@ -48,13 +42,11 @@ Te trzy gry stanowią **punkty odniesienia do analizy**, nie bezpośrednie odpow
 | [Papers, Please](https://www.papersplea.se/) | Biurokracja i procedury jako źródło znaczenia oraz doświadczenia gracza | Nasza gra ma formę przygodową i zagadki środowiskowe, a nie symulację kontroli dokumentów |
 | [The Stanley Parable](https://www.stanleyparable.com/) | Korporacyjna satyra, narrator i pytania o wpływ decyzji gracza | Nasze podstawowe interakcje opierają się na rzeczywistościach, przedmiotach i intencjach w dialogach |
 
-Przy porównaniu warto rozróżnić **temat**, **mechanikę** i **strukturę narracji**. Żadna z tych gier nie musi pokrywać się ze wszystkimi trzema obszarami.
-
 ## Uwarunkowania społeczne
 
 - **Odbiorcy:** osoby zainteresowane narracyjnymi grami przygodowymi, zagadkami, groteską i komentarzem społecznym.
 - **Wątek samobójstwa:** istotna część zawiązania fabuły; wymaga przemyślanego przedstawienia, również w materiałach promocyjnych i oznaczeniach treści.
-- **Dostępność:** napisy, czytelność wskazówek, sposób sygnalizowania rzeczywistości oraz możliwość konfiguracji sterowania. Są to kwestie projektowe, nie gotowe rozwiązania.
+- **Dostępność:** napisy, czytelność wskazówek, sposób sygnalizowania rzeczywistości oraz możliwość konfiguracji sterowania.
 - **Wypalenie zawodowe:** WHO opisuje wypalenie jako zjawisko zawodowe związane z przewlekłym stresem w pracy, a nie odrębną jednostkę chorobową [1].
 - **Młodzi na rynku pracy:** raport ILO *Global Employment Trends for Youth 2024* omawia sytuację młodych pracowników, m.in. niepewność i jakość zatrudnienia [2].
 - **Gry jako komentarz społeczny:** Ian Bogost opisuje, jak reguły i interakcje w grach mogą przekazywać argumenty i idee [3].
@@ -69,9 +61,7 @@ Przy porównaniu warto rozróżnić **temat**, **mechanikę** i **strukturę nar
 
 ## Uwarunkowania organizacyjne
 
-**Informacje z filmu rekrutacyjnego:**
-
-| Osoba | Rola przedstawiona w filmie |
+| Osoba | Rola |
 |---|---|
 | Wojtek | Game design |
 | Marcelina | Grafika 2D |
@@ -83,34 +73,31 @@ Przy porównaniu warto rozróżnić **temat**, **mechanikę** i **strukturę nar
 | Jagoda | Sound design i kompozycja |
 | Alicja | Programowanie |
 
-- W transkrypcji przedstawia się dziewięć osób. W pozostałych materiałach projekt jest opisywany jako dziesięcioosobowy. Skład najlepiej uzgodnić z aktualną listą zespołu.
-- W filmie zapowiedziano krótkie sprinty, osobę odpowiedzialną za każde zadanie, regularne spotkania na Discordzie oraz wykorzystanie GitHuba, Trello, Miro i Google Drive.
+- **Organizacja pracy:** krótkie sprinty, zadania z przypisanymi wykonawcami, regularne spotkania na Discordzie; GitHub, Trello, Miro i Google Drive.
 - W ramach IO **Alicja Janeczko, Miłosz Pakura i Sebastian Biksa** korzystają już z repozytorium GitHub oraz Issues i Projects. Środowisko współpracy przeszło wstępne testy.
-- Film opisuje zapowiadany sposób organizacji; obecne wykorzystanie poszczególnych dodatkowych narzędzi należy oceniać na podstawie faktycznej pracy zespołu.
 
 ## Dotychczasowe doświadczenia i wykonalność
 
-- W filmie zespół wskazuje wcześniejszą wspólną pracę nad projektami.
-- Podobny pomysł był sprawdzany podczas internetowego game jamu 1-BIT. Według wypowiedzi z filmu wcześniejsza gra zajęła **7. miejsce wśród około 70 zgłoszeń**.
-- Materiały z prototypu pomagają wyjaśnić działanie trzech rzeczywistości, ale nie reprezentują ukończonej oprawy nowej gry.
+- Zespół ma doświadczenie ze wspólnych projektów.
+- Prototyp pomysłu powstał podczas internetowego game jamu 1-BIT, zajmując **7. miejsce wśród około 70 zgłoszeń**.
 - Na IO planowana jest **grywalna wersja rozwojowa**, nie pełna produkcja. Dalszym celem jest wersja na Cyberiadę w czerwcu 2027.
 - Ryzyka techniczne: połączenie stanów rzeczywistości z przedmiotami i walizką, czytelność interakcji, wydajność grafiki, testowanie rozpoznawania intencji.
 - Ryzyka organizacyjne: zależności między programistami, projektantami, grafiką, dźwiękiem i QA oraz niekontrolowane rozszerzanie zakresu.
 
 [Harmonogram IO i Cyberiady](04-harmonogram.md).
 
-## Punkty wymagające sprawdzenia w zespole
+## Do sprawdzenia
 
-- Aktualna lista członków i ról, w tym osoba niewystępująca w transkrypcji filmu.
-- Źródło i oficjalne zestawienie wyników 1-BIT JAM 10, jeśli będą pokazywane dokładne miejsca.
-- Które funkcje klasyfikatora intencji i walizki mają wejść do styczniowego fragmentu.
-- Pochodzenie i licencje grafik, dźwięków oraz fragmentów prototypu, które trafią do materiałów.
-- Jak ostatecznie przedstawiony zostanie trudny początek fabuły.
+- Aktualna lista członków zespołu i ich ról.
+- Oficjalne zestawienie wyników 1-BIT JAM 10.
+- Zakres walizki i klasyfikatora intencji na styczeń.
+- Pochodzenie i licencje wykorzystanych grafik, dźwięków oraz fragmentów prototypu.
+- Sposób przedstawienia początku fabuły.
 
 ## Źródła do wykorzystania
 
 **Materiały projektu**
-- Film rekrutacyjny Zasobów Nieludzkich do Cyberiady i transkrypcja udostępniona przez zespół.
+- Film rekrutacyjny Zasobów Nieludzkich do Cyberiady (nagranie i transkrypcja).
 - *One Hell on an Afterlife – Team Starter Pack* i *Technical Architecture Bible*.
 - [Prototyp z 1-BIT](https://schildenfeld.itch.io/one-hell-of-an-afterlife).
 - [Repozytorium](https://github.com/Zasoby-Nieludzkie/Gra_Glowna) i [GitHub Project](https://github.com/orgs/Zasoby-Nieludzkie/projects/2).
