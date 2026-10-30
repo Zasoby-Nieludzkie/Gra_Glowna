@@ -2,7 +2,7 @@
 
 [Strona główna repozytorium](../../README.md) · [GitHub Project #2](https://github.com/orgs/Zasoby-Nieludzkie/projects/2) · [Issues IO](https://github.com/Zasoby-Nieludzkie/Gra_Glowna/issues?q=label%3Aio)
 
-**Osoby zaliczające IO:** Alicja Janeczko, Miłosz Pakura i Sebastian Biksa.
+**Osoby zaliczające IO:** AJ, MP i SB.
 
 ## Obszar 1 – do 6 listopada 2026, 23:00
 
@@ -11,7 +11,7 @@
 | **Efekt 1** | [#1 – Technologie i organizacja pracy](https://github.com/Zasoby-Nieludzkie/Gra_Glowna/issues/1) | [Technologie](01-technologies.md), [harmonogram](04-harmonogram.md), [testy środowiska (#5)](https://github.com/Zasoby-Nieludzkie/Gra_Glowna/issues/5) |
 | **Efekt 2** | [#2 – Analiza i prezentacja](https://github.com/Zasoby-Nieludzkie/Gra_Glowna/issues/2) | [Notatki, porównania gier i źródła](01-efekt2-materialy.md) |
 
-Efekt 1 koordynuje Alicja. Prezentację do Efektu 2 przygotowują Miłosz i Sebastian.
+Efekt 1 koordynuje AJ. Prezentację do Efektu 2 przygotowują MP i SB.
 
 ## Praca w GitHubie
 
