@@ -31,7 +31,7 @@ Do oddania: eksport zapisów z systemu zarządzania pracą, linki do zasobów or
 
 [Zadanie PZE](https://platforma.polsl.pl/rms/mod/assign/view.php?id=81405) · [Issue #2](https://github.com/Zasoby-Nieludzkie/Gra_Glowna/issues/2)
 
-Prezentację multimedialna: potrzebne informacje w [notatkach do Efektu 2](docs/IO/01-efekt2-materialy.md).
+Prezentacja multimedialna: potrzebne informacje w [notatkach do Efektu 2](docs/IO/01-efekt2-materialy.md).
 
 Pozostałe zadania do prezentacji: [#6 – porównanie gier](https://github.com/Zasoby-Nieludzkie/Gra_Glowna/issues/6) i [#7 – uwarunkowania projektu](https://github.com/Zasoby-Nieludzkie/Gra_Glowna/issues/7).
 
@@ -44,7 +44,7 @@ Pozostałe zadania do prezentacji: [#6 – porównanie gier](https://github.com/
 5. W komentarzu można podać wykonane czynności, dołączyć link do pliku lub Pull Request.
 6. Gdy zadanie jest zakończone, kliknij **Close issue**. Zostaw otwarte zadania, nad którymi jeszcze pracujesz.
 
-Zadania **#10–#15** dotyczą późniejszego tworzenia gry, nie obecnego zaliczenia.
+Zadania **#10–#15** dotyczą dalszego rozwoju gry.
 
 ## Jak korzystać z GitHub Projects?
 
@@ -53,7 +53,7 @@ Zadania **#10–#15** dotyczą późniejszego tworzenia gry, nie obecnego zalicz
 3. Ustaw filtr `label:io`, aby zobaczyć zadania na IO.
 4. Kliknij wiersz zadania albo jego tytuł, żeby otworzyć szczegóły.
 5. Uzupełniaj pola: **Status**, **Priority**, **Target date**, **Estimated hours** i **Actual hours**. Wykonawcę ustaw w polu **Assignees** zgłoszenia.
-6. **Estimated hours** to przewidywany czas zadania, a **Actual hours** to czas rzeczywiście przepracowany. Nie wpisujemy zmyślonych godzin.
+6. **Estimated hours** to planowany czas, a **Actual hours** to czas przepracowany.
 7. Po zakończeniu pracy zmień **Status** na **Done**. Jeśli zadanie jest skończone całkowicie, zamknij również Issue.
 
 Jeśli nie widać pola w tabeli, otwórz menu kolumn **Fields**, aby pokazać potrzebne kolumny.
@@ -76,10 +76,10 @@ W repozytorium otwórz folder [`docs/IO`](docs/IO/).
 1. Kliknij **Add file → Upload files**.
 2. Przeciągnij gotową prezentację, np. `IO_Efekt2_2026.pptx`.
 3. Wpisz krótką wiadomość commita, np. `Dodanie prezentacji Efekt 2`.
-4. Kliknij **Commit changes** (lub wybierz propozycję zmian na nowej gałęzi, jeśli nie masz prawa zapisu do `main`).
+4. Kliknij **Commit changes** lub utwórz osobną gałąź z proponowanymi zmianami.
 5. Skopiuj adres pliku z GitHuba i wklej go do [Issue #2](https://github.com/Zasoby-Nieludzkie/Gra_Glowna/issues/2).
 
-Plik w repozytorium **nie zastępuje oddania na PZE**: gotową prezentację trzeba jeszcze przesłać w [zadaniu Efektu 2](https://platforma.polsl.pl/rms/mod/assign/view.php?id=81405).
+**Oddanie na PZE:** [Efekt 2](https://platforma.polsl.pl/rms/mod/assign/view.php?id=81405).
 
 ## Jak wyeksportować zadania na IO?
 
@@ -88,7 +88,7 @@ Plik w repozytorium **nie zastępuje oddania na PZE**: gotową prezentację trze
 3. Pokaż kolumny wykonawców, terminów, statusów oraz godzin.
 4. W menu widoku wybierz **Export view data**. GitHub pobierze plik TSV.
 5. Otwórz go i sprawdź zawartość przed oddaniem. Gotowy eksport można dołączyć do materiałów Efektu 1.
-6. Sprawdź też, czy sam **Project #2** jest widoczny dla prowadzących. Widoczność repozytorium i Projects ustawia się osobno.
+6. Sprawdź dostęp prowadzących do **Project #2**.
 
 Eksport i linki zbieramy w [Issue #9](https://github.com/Zasoby-Nieludzkie/Gra_Glowna/issues/9).
 
@@ -99,7 +99,7 @@ Eksport i linki zbieramy w [Issue #9](https://github.com/Zasoby-Nieludzkie/Gra_G
 3. Wybierz folder **`OneHellOfAnAfterlife`** (a nie główny folder repozytorium).
 4. Użyj wersji edytora zapisanej w [`ProjectVersion.txt`](OneHellOfAnAfterlife/ProjectSettings/ProjectVersion.txt): **Unity 6000.6.7f1**.
 
-Docelowo gra wykorzystuje **HDRP**. Prace nad rozgrywką rozpoczniemy po pierwszym zaliczeniu IO.
+**Render pipeline:** HDRP.
 
 ## Kolejne terminy
 
