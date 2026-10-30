@@ -1,16 +1,12 @@
 # Inżynieria Oprogramowania – zakres trójki studentów
 
-Osoby zaliczające IO na projekcie: **Alicja Janeczko**, **Miłosz Pakura**, **Sebastian Biksa**.
-
-Prowadzący obszary: prof. PŚ dr hab. inż. Adam Zielonka. Zgoda na zmianę tematu i zasady: dr inż. Zdzisław Sroczyński; dokumentację przygotowywać zgodnie z PZE, **szczególnie harmonogramowanie**.
-
 ## Zakres i odpowiedzialność
 
 | Student(ka) | Rola w grze | Konkretne moduły/taski | Dowody wykonania | Godziny (Projects) |
 |---|---|---|---|---|
-| Alicja Janeczko | technical lead; programowanie; technical design | [uzupełnić] | PR / Issues / testy | [uzupełnić] |
-| Miłosz Pakura | programowanie; wsparcie QA i 3D | [uzupełnić] | PR / Issues / testy | [uzupełnić] |
-| Sebastian Biksa | programowanie; wsparcie QA i 3D | [uzupełnić] | PR / Issues / testy | [uzupełnić] |
+| AJ | technical lead; programowanie; technical design | [uzupełnić] | PR / Issues / testy | [uzupełnić] |
+| MP | programowanie; wsparcie QA i 3D | [uzupełnić] | PR / Issues / testy | [uzupełnić] |
+| SB | programowanie; wsparcie QA i 3D | [uzupełnić] | PR / Issues / testy | [uzupełnić] |
 
 **Każde zadanie zaliczane na IO:** label `io`, wykonawca spośród trójki, estymata, zapisane sesje czasu, artefakt (commity, PR, wynik testu, dokument).
 
