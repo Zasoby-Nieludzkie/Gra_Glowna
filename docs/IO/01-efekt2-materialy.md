@@ -84,14 +84,6 @@
 
 [Harmonogram IO i Cyberiady](04-harmonogram.md).
 
-## Do sprawdzenia
-
-- Aktualna lista członków zespołu i ich ról.
-- Oficjalne zestawienie wyników 1-BIT JAM 10.
-- Zakres walizki i klasyfikatora intencji na styczeń.
-- Pochodzenie i licencje wykorzystanych grafik, dźwięków oraz fragmentów prototypu.
-- Sposób przedstawienia początku fabuły.
-
 ## Źródła do wykorzystania
 
 **Materiały projektu**
