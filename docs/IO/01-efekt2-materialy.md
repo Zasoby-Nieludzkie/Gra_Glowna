@@ -65,14 +65,14 @@
 |---|---|
 | Game design | Projektowanie rozgrywki i zagadek |
 | Grafika 2D | Ilustracje i oprawa wizualna |
-| Programowanie | AJ, SB, MP |
+| Programowanie | Systemy gry, logika interakcji i integracja mechanik |
 | Narracja | Fabuła, dialogi i questy |
 | QA | Testy i kontrola jakości |
 | Project management | Koordynacja pracy zespołu |
 | Audio | Sound design i kompozycja |
 
 - **Organizacja pracy:** krótkie sprinty, zadania z przypisanymi wykonawcami, regularne spotkania na Discordzie; GitHub, Trello, Miro i Google Drive.
-- W ramach IO **AJ, MP i SB** korzystają już z repozytorium GitHub oraz Issues i Projects. Środowisko współpracy przeszło wstępne testy.
+- **IO:** repozytorium GitHub, Issues i Projects; testy środowiska zakończone pozytywnie.
 
 ## Dotychczasowe doświadczenia i wykonalność
 
