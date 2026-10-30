@@ -25,7 +25,7 @@ Do **6 listopada 2026** pracujemy nad pierwszym zaliczeniem IO. Materiały, zada
 
 [Zadanie PZE](https://platforma.polsl.pl/rms/mod/assign/view.php?id=81404) · [Issue #1](https://github.com/Zasoby-Nieludzkie/Gra_Glowna/issues/1)
 
-**Alicja** zajmuje się środowiskiem, technologiami, harmonogramem i eksportem danych. Współpraca zespołu w GitHubie i Unity została już przetestowana.
+**AJ** zajmuje się środowiskiem, technologiami, harmonogramem i eksportem danych. Współpraca zespołu w GitHubie i Unity została już przetestowana.
 
 Do oddania: eksport zapisów z systemu zarządzania pracą, linki do zasobów oraz informacje o środowisku i wybranych narzędziach.
 
@@ -33,7 +33,7 @@ Do oddania: eksport zapisów z systemu zarządzania pracą, linki do zasobów or
 
 [Zadanie PZE](https://platforma.polsl.pl/rms/mod/assign/view.php?id=81405) · [Issue #2](https://github.com/Zasoby-Nieludzkie/Gra_Glowna/issues/2)
 
-**Miłosz i Sebastian** przygotowują prezentację multimedialną. Potrzebne informacje zostały zebrane w [notatkach do Efektu 2](docs/IO/01-efekt2-materialy.md). Są tam źródła i porównania gier, ale wygląd, układ i zawartość prezentacji wybieracie sami.
+**MP i SB** przygotowują prezentację multimedialną. Potrzebne informacje zostały zebrane w [notatkach do Efektu 2](docs/IO/01-efekt2-materialy.md). Są tam źródła i porównania gier, ale wygląd, układ i zawartość prezentacji wybieracie sami.
 
 Pozostałe zadania do prezentacji: [#6 – porównanie gier](https://github.com/Zasoby-Nieludzkie/Gra_Glowna/issues/6) i [#7 – uwarunkowania projektu](https://github.com/Zasoby-Nieludzkie/Gra_Glowna/issues/7).
 
@@ -65,7 +65,7 @@ Jeśli nie widać pola w tabeli, otwórz menu kolumn **Fields**, aby pokazać po
 Do zadania dodaj komentarz, np.:
 
 ```text
-2026-11-02 – Miłosz – 2 h
+2026-11-02 – MP – 2 h
 Porównanie gier referencyjnych i zebranie źródeł.
 ```
 
