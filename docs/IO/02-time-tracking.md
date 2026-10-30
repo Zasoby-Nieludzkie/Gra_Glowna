@@ -4,7 +4,7 @@
 1. Przed wykonaniem zadania podaj `Estimated hours` w GitHub Projects. Estymata ma być rzeczywistym przewidywaniem, nie wartością dobraną do oceny.
 2. Każdy wykonawca zapisuje sesje w komentarzach pod Issue, **regularnie, z dokładnością wymaganą na PZE (minimum jeden wpis na każde 3 h pracy)**.
 3. Każdy wpis zawiera datę, wykonawcę, czas i wykonane czynności. Unikamy wielogodzinnych uogólnień typu „pracowałem nad grą”.
-4. Pole `Actual hours` aktualizujemy jako **sumę godzin wszystkich wykonawców tego Issue**. Jeśli trzeba rozliczyć oddzielnie dwie osoby, każdy ma własne wpisy. Na raport IO uwzględniamy tylko AJ, MP i SB.
+4. Pole `Actual hours` aktualizujemy jako **sumę godzin wszystkich wykonawców tego Issue**. Jeśli trzeba rozliczyć oddzielnie dwie osoby, każdy ma własne wpisy. Raport IO obejmuje godziny osób zaliczających przedmiot.
 5. Każdy wpis ma powiązany artefakt, jeśli możliwy: PR, commit, plik dokumentacji, test, build, screen.
 6. Podczas grudniowego raportu porównujemy estymaty i wykonanie i **opisujemy przyczyny rozbieżności**, nie tylko procent odchylenia.
 
