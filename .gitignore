@@ -107,6 +107,13 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
-/OneHellOfAnAfterlife/Library
-/OneHellOfAnAfterlife/UserSettings
-/OneHellOfAnAfterlife/Temp
+/OneHellOfAnAfterlife/Library/
+/OneHellOfAnAfterlife/Temp/
+/OneHellOfAnAfterlife/Obj/
+/OneHellOfAnAfterlife/Build/
+/OneHellOfAnAfterlife/Builds/
+/OneHellOfAnAfterlife/Logs/
+/OneHellOfAnAfterlife/UserSettings/
+
+# JetBrains IDE
+.idea/
